@@ -1,4 +1,4 @@
 # Tomines_LabActivity_Pixabay
 
-![Challenge 1 ](images/rocket launch.png)
+![Challenge 1 ](/images/rocket launch.png)
 
